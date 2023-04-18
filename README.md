@@ -5,6 +5,6 @@ The dataset for this competition (both train and test) was generated from a deep
 
 # Files
 
-## train.csv - the training dataset; prognosis is the target
-## test.csv - the test dataset; your objective is to predict prognosis
-## sample_submission.csv - a sample submission file in the correct format
+### train.csv - the training dataset; prognosis is the target
+### test.csv - the test dataset; your objective is to predict prognosis
+### sample_submission.csv - a sample submission file in the correct format
